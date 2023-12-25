@@ -1,7 +1,7 @@
 ![Beginner of Web-Development](https://scontent.fdac160-1.fna.fbcdn.net/v/t39.30808-6/382104757_1751899128593940_8981546062483115637_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHkbm4zxzUjVfohJ3f4URYAU8VQy02MstBTxVDLTYyy0OQF4W51DdvQfoDw9XR77wavkm9tEV19lNlyRccOoPVN&_nc_ohc=agQhpSDaPywAX_1Z-eL&_nc_ht=scontent.fdac160-1.fna&oh=00_AfAisgCUGLrwxJFDWJbXbFtP5QpMqa8b5AFtqS9yI4dNng&oe=658D3A07)
 
 # Hi there 👋, I am Salman Zahid
-#### Beginner of Web-Development
+### Beginner of Web-Development
 
 
 🌐 As a beginner in this dynamic field, I am on a journey to unravel the mysteries of coding and design, with a keen interest in crafting user-friendly and visually appealing websites. My curiosity led me to explore HTML, CSS, and JavaScript, the building blocks of the web, and I am eager to expand my skills further.
