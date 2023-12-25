@@ -8,7 +8,7 @@
 
 📚 Currently, I'm immersing myself in online courses, tutorials, and coding challenges to sharpen my skills and stay updated with industry trends. I find joy in problem-solving and am excited to tackle the challenges that come with building and optimizing websites.
 
-###Skills: C / HTML
+#Skills: C / HTML
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JAVA & CSS 
